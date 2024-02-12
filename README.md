@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmitJediya
 - 👀 I’m interested in Data Analyst/ Business Analyst Profile
-- 🌱 I’m currently learning Data Science & Business Analytics which includes  
+- 🌱 I’m currently learning Data Science & Business Analytics
 - 📫 How to reach me Email- amitjediya@gmail.com, Mobile- 9822856427
 - ⚡ Technial Skills - SQL lite, MySql, Power BI, Advanced Excel, PowerPoint
 
