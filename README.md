@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst/ Business Analyst Profile
 - 🌱 I’m currently learning Data Science & Business Analytics
 - 📫 How to reach me Email- amitjediya@gmail.com, Mobile- 9822856427
-- ⚡ Technial Skills - SQL lite, MySql, Power BI, Advanced Excel, PowerPoint
+- ⚡ Technial Skills - MySql, Power BI,  Excel, PowerPoint, Data Visualization
 
 <!---
 AmitJediya/AmitJediya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
